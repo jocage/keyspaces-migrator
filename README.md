@@ -396,7 +396,7 @@ CMD ["npx", "keyspaces-migrator", "up"]
 ### Building the Project
 
 ```bash
-git clone https://github.com/yourusername/keyspaces-migrator.git
+git clone https://github.com/jocage/keyspaces-migrator.git
 cd keyspaces-migrator
 npm install
 npm run build
